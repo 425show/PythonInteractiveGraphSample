@@ -1,0 +1,4 @@
+ipykernel>=6.4.1
+msgraph-core>=0.2.2
+azure-identity>=1.6.1
+nbconvert>=6.2.0
